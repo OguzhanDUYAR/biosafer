@@ -33,6 +33,21 @@ We welcome contributions from the community! 💡
 👉 Contributions can be **new analysis scripts, documentation, or translations**.  
 
 ---
+Site Background
+HEX: #121212
+👉 En koyu ton, gece modu görünümü (tüm site için temel arka plan).
+
+Content Background
+HEX: #1E1E1E
+👉 Kartlar, içerik blokları, modal kutular (site arka planından biraz daha açık).
+
+Title Above Content Background
+HEX: #2C2C2C
+👉 Başlık çubukları, içerik üstündeki bölümler için.
+
+Title Above Content Overlay Color
+HEX: #00796B (DNA Teal)
+👉 Hafif şeffaf kullanılabilir (%40–50 opacity). Başlığa biyoteknolojik vurgu katar.
 
 ## 📜 License / Lisans
 - **Code** → Licensed under the [MIT License](LICENSE)  
